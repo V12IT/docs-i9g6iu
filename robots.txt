@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ufubez.menara4dbgo.site/sitemap.xml
